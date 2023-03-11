@@ -1,4 +1,4 @@
- #the project i created is netflix clone .
+##Netflix Clone using HTML,CSSand javascript
  
 I used HTML,CSS,javascript in this project using nodejs platform.
 
