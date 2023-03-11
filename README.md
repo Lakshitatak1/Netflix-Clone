@@ -1,4 +1,4 @@
-##Netflix Clone using HTML,CSSand javascript
+# Netflix Clone using HTML,CSS and javascript
  
 I used HTML,CSS,javascript in this project using nodejs platform.
 
